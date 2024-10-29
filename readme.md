@@ -109,13 +109,13 @@ Comprendre l'impact respectif sur les revenus.
 
 ### 🌟 Principales Visualisations
 
-![Page Accueil](images/page_accueil.png)
+![Page Accueil](Images/page_accueil.png)
 *Cette capture d'écran montre la page d'accueil avec une vue d'ensemble simplifiée de la supply chain.*
 
-![Page Aperçu des Revenus](images/page_apercu_revenus.png)
+![Page Aperçu des Revenus](Images/page_apercu_revenus.png)
 *Cette capture d'écran montre la page "Aperçu des Revenus" avec les graphiques détaillés des revenus mensuels et les comparaisons YTD.*
 
-![Page Détails par Catégorie](images/page_details_categorie.png)
+![Page Détails par Catégorie](Images/page_details_categorie.png)
 *Cette capture d'écran montre la page "Détails par Catégorie" avec des visualisations approfondies sur les catégories de produits et les clients.*
 
 ## 📌 Principaux Enseignements
